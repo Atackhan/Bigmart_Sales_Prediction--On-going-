@@ -1,4 +1,3 @@
-Tabii! İşte projen için detaylı bir **README.md** dosyası:
 
 ---
 
